@@ -16,4 +16,3 @@ This is a React-based frontend application for a food ordering service. The app 
 ## Live Demo
 
 Check out the live application [here](https://food-delivery-frontend-practice.vercel.app/).
-# food-delivery-website
